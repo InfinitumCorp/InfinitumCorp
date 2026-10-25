@@ -1,16 +1,17 @@
-## Hi there 👋
+# Infinitum Corporation
 
-<!--
-**InfinitumCorp/InfinitumCorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infinitum Corporation is an international security and technology consulting firm founded by William Aaron Turner. Its work sits at the intersection of information technology, cybersecurity and modern defense and security concepts.
 
-Here are some ideas to get you started:
+- Website: https://www.theinfinitumcorporation.com
+- X: https://x.com/infinitumceo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ukrainian Files
+
+*Ukrainian Files* is a research blog by William Aaron Turner, President of Infinitum Corporation. It lays out the sources, figures and named claims behind *The Ukraine Files* series of X Articles: aid and NGOs, sanctions and the Russian economy, the Eastern Economic Forum, In-Q-Tel, mobilization and intelligence.
+
+- Blog: https://ukrainianfiles.blogspot.com/
+- Full series (reading order): https://ukrainianfiles.blogspot.com/p/the-ukraine-files-full-series.html
+- About the author: https://ukrainianfiles.blogspot.com/p/about.html
+- Follow on X: https://x.com/infinitumceo
+
+Promo banners and flyers: [ukraine-files-flyers](https://github.com/InfinitumCorp/ukraine-files-flyers)
